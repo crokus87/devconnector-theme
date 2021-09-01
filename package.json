@@ -1,0 +1,14 @@
+{
+  "name": "devconnector-theme",
+  "version": "1.0.0",
+  "description": "theme for the devconnector app",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass --style=compressed --watch scss:dist/css"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "sass": "^1.35.2"
+  }
+}
